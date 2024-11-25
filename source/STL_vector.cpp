@@ -34,4 +34,6 @@ int main ()
 		cout << *iterator << endl;
 	}
 	return (0);
+
+	// gave up, come back
 }
