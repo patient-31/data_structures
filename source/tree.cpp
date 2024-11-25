@@ -90,7 +90,5 @@ int main ()
 	cout << endl;
 	printTreePostOrder(root);
 	cout << endl;
-
-	//Depth First Search Algorithm
 	return (0);
 }
