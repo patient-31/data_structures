@@ -1,3 +1,11 @@
+/*
+ * ________________________________________________________________________________
+ * |  File: doublylinkedlist.cpp
+ * |  Project: patient
+ * |  File Created: Monday, 25th November 2024 02:51 pm
+ * |  Author: Daniel Haddington [haddingtondaniel5@icloud.com]
+ */
+
 #include <iostream>
 
 using namespace std;

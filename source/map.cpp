@@ -1,3 +1,10 @@
+/*
+ * ________________________________________________________________________________
+ * |  File: map.cpp
+ * |  Project: patient
+ * |  File Created: Monday, 25th November 2024 02:19 pm
+ * |  Author: Daniel Haddington [haddingtondaniel5@icloud.com]
+ */
 #include <iostream>
 #include <map>
 #include <string>
